@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="__ymcEHwlEeaSRe30D2PK0A" name="FichierCinemas" dataPackage="__yqGcHwlEeaSRe30D2PK0A" Server="Localhost 127.0.0.1" FilePath="/home/etudiant/Téléchargements/cinemas.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="__yqGcHwlEeaSRe30D2PK0A" name="default" dataManager="__ymcEHwlEeaSRe30D2PK0A">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="__yqGcXwlEeaSRe30D2PK0A" id="_djGF0HwlEeaSRe30D2PK0A" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="__yqGcnwlEeaSRe30D2PK0A" label="Geo_Point" length="28" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="__yqGc3wlEeaSRe30D2PK0A" label="Geo_Shape" length="81" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="__yqGdHwlEeaSRe30D2PK0A" label="EQ_NOM_EQUIPEMENT" length="30" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="__yqGdXwlEeaSRe30D2PK0A" label="EQ_GESTIONNAIRE" length="32" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="__yqGdnwlEeaSRe30D2PK0A" label="EQ_SITE_WEB" length="32" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="__yqGd3wlEeaSRe30D2PK0A" label="EQ_TELEPHONE" length="14" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="__yqGeHwlEeaSRe30D2PK0A" label="EQ_ACCES_METRO" length="49" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="__yqGeXwlEeaSRe30D2PK0A" label="EQ_ACCES_BUS" length="39" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="__yqGenwlEeaSRe30D2PK0A" label="NUMERO" length="4" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="__yqGe3wlEeaSRe30D2PK0A" label="LIB_OFF" length="26" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="__yqGfHwlEeaSRe30D2PK0A" label="ID_SECTEUR_POSTAL" length="5" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="__yqGfXwlEeaSRe30D2PK0A" label="EQ_VILLE" length="16" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="__yqGfnwlEeaSRe30D2PK0A" label="EQ_SECTEUR" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="__yqGf3wlEeaSRe30D2PK0A" label="EQ_QUARTIER" length="3" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
