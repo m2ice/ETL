@@ -6,4 +6,4 @@ https://www.irit.fr/~Cassia.Trojahn/master/olap.pdf<br>
 https://www.irit.fr/~Cassia.Trojahn/master/partie1-ice.pdf
 
 ## Professeurs & Cours
-Cassia Trojahn - 16/09/2016
+Cassia Trojahn - 16/09/2016 - 20/09/2016
